@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.rowitem {
+    width: 60%;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+input {
+    height: 30px;
+    width: 75%;
+    background-color: aliceblue;
+}
+
+button {
+    height: 36px;
+    width: 20%;
+    margin-left: 2px;
+}
+
+img {
+    max-width: 80%;
+    padding: 5% 0;
+}
+
+.response {
+    font-size: 20px;
+}

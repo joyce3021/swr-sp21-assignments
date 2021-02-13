@@ -1,0 +1,12 @@
+.history {
+    margin-top: 123px;
+}
+
+.history div {
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+
+.history div p {
+    margin: 16px 5px;
+}
